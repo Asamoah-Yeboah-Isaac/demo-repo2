@@ -1,3 +1,4 @@
-# Demo 2
+# Git and Github
 
-This is in demo 2
+After working with git and  github for four months ,I decided to take a course on on it to 
+cover the little details about this verson system
